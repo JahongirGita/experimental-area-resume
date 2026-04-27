@@ -31,16 +31,17 @@ Local Storage (SQLite): For offline data persistence.
 
 #
 <p float="left">
-  <img src="images/Screenshot_20260427-120109.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120130.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120145.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120158.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120206.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120233.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120257.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120310.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120319.jpg" width="180"/>
-  <img src="images/Screenshot_20260427-120352.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-123137.jpg width="180"/>
+  <img src="images/Screenshot_20260427-122919.jpg width="180"/>
+  <img src="images/Screenshot_20260427-122930.jpg width="180"/>
+  <img src="images/Screenshot_20260427-122941.jpg width="180"/>
+  <img src="images/Screenshot_20260427-122944.jpg width="180"/>
+  <img src="images/Screenshot_20260427-122954.jpg width="180"/>
+  <img src="images/Screenshot_20260427-123159.jpg width="180"/>
+  <img src="images/Screenshot_20260427-123206.jpg width="180"/>
+  <img src="images/Screenshot_20260427-123213.jpg width="180"/>
+  <img src="images/Screenshot_20260427-123222.jpg width="180"/>
+
 </p>
 
 
