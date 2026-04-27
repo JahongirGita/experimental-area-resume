@@ -41,7 +41,11 @@ Local Storage (SQLite): For offline data persistence.
   <img src="images/Screenshot_20260427-123206.jpg" width="180"/>
   <img src="images/Screenshot_20260427-123213.jpg" width="180"/>
   <img src="images/Screenshot_20260427-123222.jpg" width="180"/>
-
+  <img src="images/Screenshot_20260427-123231.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-123238.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-123243.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-123301.jpg" width="180"/>
+  <img src="images/Screenshot_20260427-123323_ClearScanner.jpg" width="180"/>
 </p>
 
 
